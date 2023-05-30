@@ -11,9 +11,9 @@ I can offer the following services to support your quality assurance and automat
 - Help you to improve your work processes and increase collaboration and efficiency within your teams.
 - With my extensive experience in quality assurance automation, I am confident that I can help you to achieve your goals and improve your processes.
 
-If you want to find more details about me, you can visit my profile on Linkedin: https://www.linkedin.com/in/vadzim-novikau-9a4a8816/
+If you want to find more details about me, you can visit my profile on [Linkedin](https://www.linkedin.com/in/vadim-novikau/).
 
-Also you can invite me to help with your project on Upwork. My profile is here: https://www.upwork.com/freelancers/~01d1095938521f8083
+Also you can invite me to help with your project on [Upwork](https://www.upwork.com/freelancers/~01d1095938521f8083).
 
 <!---
 imvadzim/imvadzim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
