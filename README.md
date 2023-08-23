@@ -1,4 +1,4 @@
-Hi, I’m Vadzim Novikau.
+Hi, I’m Vadim Novikau.
 
 I bring a wealth of experience to the table, including:
 - Automating test cases for Web Services and command line applications using Python and Groovy.
