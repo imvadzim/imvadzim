@@ -13,6 +13,8 @@ My extensive background in quality assurance automation uniquely positions me to
 
 If you want to find more details about me, you can visit my profile on [Linkedin](https://www.linkedin.com/in/vadimnovikau/).
 
+Also you can have a look at my resume or download it from [here](https://github.com/imvadzim/imvadzim/blob/main/Resume-Vadim-Novikau.pdf).
+
 <!---
 imvadzim/imvadzim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
