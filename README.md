@@ -1,19 +1,17 @@
 Hi, I’m Vadzim Novikau.
 
-I can offer the following services to support your quality assurance and automation needs:
+I bring a wealth of experience to the table, including:
+- Automating test cases for Web Services and command line applications using Python and Groovy.
+- Refactoring and optimizing existing test frameworks for enhanced efficiency.
+- Investigating complex problems using logs from various sources, such as IDE debugging consoles, server logs, and Cloud Storage via SQL (HiveQL).
+- Enhancing and optimizing REST clients in Java to elevate functionality.
+- Streamlining CI/CD pipelines via Jenkins for improved efficiency and reliability.
+- Debugging and troubleshooting DevOps scripts in Python and Bash to swiftly resolve issues.
+- Driving process improvements to foster collaboration and efficiency across teams.
 
-- Refactor and optimize your existing test framework, or help you set up a new one that is efficient and effective.
-- Automate test cases for web services/APIs and command line applications using Groovy and Python programming languages.
-- Enhance and optimize existing REST clients in Java to improve their functionality and performance.
-- Streamline your CI/CD pipelines using Jenkins, making them more efficient and reliable.
-- Debug and troubleshoot DevOps scripts written in Python and Bash to resolve any issues.
-- Investigate complex problems using logs from a variety of sources, including IDE debugging console, server logs, and Big Data storages.
-- Help you to improve your work processes and increase collaboration and efficiency within your teams.
-- With my extensive experience in quality assurance automation, I am confident that I can help you to achieve your goals and improve your processes.
+My extensive background in quality assurance automation uniquely positions me to assist you in achieving your goals and refining your workflows.
 
-If you want to find more details about me, you can visit my profile on [Linkedin](https://www.linkedin.com/in/vadim-novikau/).
-
-Also you can invite me to help with your project on [Upwork](https://www.upwork.com/freelancers/~01d1095938521f8083).
+If you want to find more details about me, you can visit my profile on [Linkedin](https://www.linkedin.com/in/vadimnovikau/).
 
 <!---
 imvadzim/imvadzim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
