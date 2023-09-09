@@ -1,7 +1,8 @@
 Hi, I’m Vadim Novikau.
 
 I bring a wealth of experience to the table, including:
-- Automating test cases for Web Services and command line applications using Python and Groovy.
+- Developing Test Automation Framework in Python.
+- Automating test cases for Web Services and Command Line Applications using Python and Groovy.
 - Refactoring and optimizing existing test frameworks for enhanced efficiency.
 - Investigating complex problems using logs from various sources, such as IDE debugging consoles, server logs, and Cloud Storage via SQL (HiveQL).
 - Enhancing and optimizing REST clients in Java to elevate functionality.
